@@ -19,5 +19,3 @@ The form opens the visitor's email application using `mailto:`. No support email
 
 ## Top-up
 Coming Soon notice only. No checkout, payment processor or payment links are included.
-
-This is an independent implementation and does not reuse the original EU1 guide's source code or proprietary artwork.
